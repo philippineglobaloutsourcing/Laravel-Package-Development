@@ -1,0 +1,17 @@
+{
+    "name": "chriscubos/simple-admin",
+    "description": "Simple administration package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher John Cubos",
+            "email": "philippineoutsourcing@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "psr-4": {
+        "App\\": "app/",
+        "ChrisCubos\\SimpleAdmin\\": "packages/chriscubos/simple-admin/src"
+    }
+}
